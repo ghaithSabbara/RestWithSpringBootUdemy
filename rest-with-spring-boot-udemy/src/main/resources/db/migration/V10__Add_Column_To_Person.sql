@@ -1,0 +1,1 @@
+ALTER TABLE person ADD enabled VARCHAR(255)

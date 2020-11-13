@@ -1,13 +1,13 @@
 package com.restapi.restwithspringbootudemy;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestWithSpringBootUdemyApplicationTests {
+public class StartupTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }

@@ -1,0 +1,1 @@
+INSERT INTO `book` VALUES (1,'Ghaith SABBARA', '1990-07-02',20.45,'Yes We Can');

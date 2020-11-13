@@ -1,0 +1,1 @@
+INSERT INTO `person` VALUES (1,'40 Route de Genas, 69003 Lyon','Ghaith','Male','SABBARA'),(4,'40 Route de Genas, 69003 Lyon','Sonia','Male','Ter'),(5,'40 Route de Genas, 69003 Lyon','Test Put','Male','Teest Put'),(6,'40 Route de Genas, 69003 Lyon','Test birthday','Male','Teest birthday'),(7,'40 Route de Genas, 69003 Lyon','Test birthday','Male','Teest birthday');
