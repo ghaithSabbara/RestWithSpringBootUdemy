@@ -13,6 +13,6 @@ deploy:
     docker image push gsabbara/mysql-rest-with-spring-boot-udemy
     docker image push gsabbara/rest-with-spring-boot-udemy
   on:
-    branch: master
+    branch: main
 notifications:
   email: false
