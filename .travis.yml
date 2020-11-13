@@ -10,8 +10,8 @@ before_deploy:
 deploy:
   provider: script
   script:
-    docker image push 'gsabbara/mysql-rest-with-spring-boot-udemy:latest'
-    docker image push 'gsabbara/rest-with-spring-boot-udemy:latest'
+    docker image push gsabbara/mysql-rest-with-spring-boot-udemy;
+    docker image push gsabbara/rest-with-spring-boot-udemy;
   on:
     branch: main
 notifications:
