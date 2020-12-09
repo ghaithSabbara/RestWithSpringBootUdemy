@@ -17,7 +17,6 @@ public class Startup {
 	// private PasswordEncoder passwordEncoder;
 
 	public static void main(String[] args) {
-		System.out.println("Start...");
 		SpringApplication.run(Startup.class, args);
 	}
 
