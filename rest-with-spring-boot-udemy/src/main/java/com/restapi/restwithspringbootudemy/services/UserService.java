@@ -19,8 +19,8 @@ public class UserService {
 	@Autowired
 	private UserRepository userRepository;
 
-//	@Autowired
-//	private PasswordEncoder passwordEncoder;
+	@Autowired
+	private PasswordEncoder passwordEncoder;
 
 	@Autowired
 	private JwtTokenProvider jwtTokenProvider;
@@ -28,8 +28,8 @@ public class UserService {
 	@Autowired
 	private AuthenticationManager authenticationManager;
 
-	@Autowired
-	private PasswordEncoder passwordEncoder;
+	// @Autowired
+	// private PasswordEncoder passwordEncoder;
 
 	public String signin(String username, String password) {
 		try {
